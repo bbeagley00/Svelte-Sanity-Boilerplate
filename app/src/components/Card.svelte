@@ -20,7 +20,7 @@
 	<div class="card__container">
 		<h3 class="card__title">
 			<a class="card__link" href={`/post/${post.slug.current}`}>
-				{post.title}
+				{post.title}s
 			</a>
 		</h3>
 		<p class="card__excerpt">{post.excerpt}</p>
