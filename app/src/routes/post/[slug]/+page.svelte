@@ -4,7 +4,7 @@
 	import { urlFor } from '$lib/utils/image';
 	import type { PageData } from './$types';
 
-	export let data: PageData;
+	export let data;
 </script>
 
 <section class="post">
